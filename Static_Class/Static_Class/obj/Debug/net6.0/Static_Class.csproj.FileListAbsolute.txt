@@ -1,0 +1,14 @@
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\bin\Debug\net6.0\Static_Class.exe
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\bin\Debug\net6.0\Static_Class.deps.json
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\bin\Debug\net6.0\Static_Class.runtimeconfig.json
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\bin\Debug\net6.0\Static_Class.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\bin\Debug\net6.0\Static_Class.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfoInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.AssemblyInfo.cs
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.csproj.CoreCompileInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\refint\Static_Class.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\Static_Class.genruntimeconfig.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Static_Class\Static_Class\obj\Debug\net6.0\ref\Static_Class.dll

@@ -1,0 +1,14 @@
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.AssemblyInfoInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.AssemblyInfo.cs
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\bin\Debug\net6.0\Sort.exe
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\bin\Debug\net6.0\Sort.deps.json
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\bin\Debug\net6.0\Sort.runtimeconfig.json
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\bin\Debug\net6.0\Sort.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\bin\Debug\net6.0\Sort.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\refint\Sort.dll
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\Sort.genruntimeconfig.cache
+C:\Users\hajee\Desktop\알고리즘 C#\Sort\Insertion_Sort\obj\Debug\net6.0\ref\Sort.dll
