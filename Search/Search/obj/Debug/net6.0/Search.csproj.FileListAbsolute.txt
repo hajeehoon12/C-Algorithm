@@ -1,0 +1,15 @@
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\bin\Debug\net6.0\Search.exe
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\bin\Debug\net6.0\Search.deps.json
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\bin\Debug\net6.0\Search.runtimeconfig.json
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\bin\Debug\net6.0\Search.dll
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\bin\Debug\net6.0\Search.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.AssemblyInfoInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.AssemblyInfo.cs
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.sourcelink.json
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.dll
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\refint\Search.dll
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.pdb
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\Search.genruntimeconfig.cache
+C:\Users\hajee\Desktop\알고리즘 C#\C-Algorithm\Search\Search\obj\Debug\net6.0\ref\Search.dll
